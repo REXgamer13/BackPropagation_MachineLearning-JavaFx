@@ -1,0 +1,9 @@
+target/
+*.log
+*.iml
+.nb-gradle/
+nbproject/private/
+hs_err_pid*
+.DS_Store
+.idea/
+out/
